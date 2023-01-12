@@ -9,7 +9,7 @@ from config import *
 api = f"https://api.telegram.org/bot" + token_bot + "/"
 update_id = 0
 
-print("تم تشغيل البوت BY @SELVER7")
+print("تم تشغيل البوت BY @P_S_E")
 print("PRESS CTRL + C TO EXIT ")
 while True:
 	try:
